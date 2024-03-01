@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Projeto 30 - Predição de Imagens com Tensor Flow</h1
+<h1><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Projeto 30 - Predição de Imagens com Tensor Flow</h1>
 
 ## Introdução
 
@@ -15,3 +15,8 @@ Criar um aplicativo de reconhecimento de imagem, usando a Biblioteca TensorflowJ
 ```bash
 npm install @tensorflow/tfjs @tensorflow-models/coco-ssd
 ```
+
+<br /><br />
+	
+<div align="center"><a href="../README.md"><img src="https://i.imgur.com/kfHCxif.png" title="source: imgur.com" width="5%"/></a></div>
+<div align="center">Home</div>
