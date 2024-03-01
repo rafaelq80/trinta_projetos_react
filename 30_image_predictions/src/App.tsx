@@ -9,7 +9,7 @@ const App = () => {
       <div className="container mx-auto p-4">
         <div className="bg-gray-200 p-6 rounded-md">
           <h1 className="text-2xl font-bold mb-4">
-            Upload an Image for Recognition
+            Carregue uma imagem para ser analisada
           </h1>
           <ImageRecognition />
         </div>
