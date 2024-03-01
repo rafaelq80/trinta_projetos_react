@@ -3,7 +3,7 @@
 </div>
 <br />
 
-<h1>30 Projetos de Introdução ao React</h1>
+<h1>30 Projetos - Introdução ao React</h1>
 
 <br />
 
