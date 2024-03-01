@@ -10,13 +10,13 @@ Criar um aplicativo de geração de gráficos, utilizando dados obtidos  a parti
 
 ## Requisitos
 
-- **Axios:** Biblioteca para consumo de API.
+- **Axios:** Biblioteca para consumo de API (https://axios-http.com/ptbr/docs/intro).
 
 ```bash
 npm install axios
 ```
 
-- **React Charts:** Biblioteca para geração de gráficos.
+- **React Charts:** Biblioteca para geração de gráficos (htaxiostps://recharts.org/en-US/).
 
 ```bash
 npm install recharts

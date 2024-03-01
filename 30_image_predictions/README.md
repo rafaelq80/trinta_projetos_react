@@ -10,7 +10,7 @@ Criar um aplicativo de reconhecimento de imagem, usando a Biblioteca TensorflowJ
 
 ## Requisitos
 
-- **TensorFlow.js:** Biblioteca para aprendizado de máquina em JavaScript.
+- **TensorFlow.js:** Biblioteca para aprendizado de máquina em JavaScript (https://github.com/tensorflow/tfjs#readme).
 
 ```bash
 npm install @tensorflow/tfjs @tensorflow-models/coco-ssd

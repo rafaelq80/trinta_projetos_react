@@ -20,7 +20,7 @@
 11. <a href="#"></a>
 12. <a href="#"></a>
 13. <a href="#"></a>
-14. <a href="14_graficos">Construção de Gráficos no React (React Charts)</a>
+14. <a href="14_graficos">Construção de Gráficos no React (Recharts - React Charts)</a>
 15. <a href="#"></a>
 16. <a href="#"></a>
 17. <a href="#"></a>
