@@ -1,30 +1,29 @@
-# React + TypeScript + Vite
+<h1><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Projeto 14 - Construção de Gráficos com o React Charts</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introdução
 
-Currently, two official plugins are available:
+Neste projeto, vamos construir um aplicativo React que busca os dados do PIB da índia na API do Banco Mundial e visualiza-os usando gráficos de barras e áreas. Nós vamos usar as Bibliotecas Axios para enviar Rquisições para a API e React Charts para criar os gráficos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Objetivo
 
-## Expanding the ESLint configuration
+Criar um aplicativo de geração de gráficos, utilizando dados obtidos  a partir de uma API, usando as Bibliotecas Axios e React Charts.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Requisitos
 
-- Configure the top-level `parserOptions` property like this:
+- **Axios:** Biblioteca para consumo de API.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```bash
+npm install axios
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- **React Charts:** Biblioteca para geração de gráficos.
+
+```bash
+npm install recharts
+```
+
+
+<br /><br />
+	
+<div align="center"><a href="../README.md"><img src="https://i.imgur.com/kfHCxif.png" title="source: imgur.com" width="5%"/></a></div>
+<div align="center">Home</div>
