@@ -1,30 +1,9 @@
-# React + TypeScript + Vite
+<h1><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Projeto 30 - Predição de Imagens com Tensor Flow</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Introdução
 
-Currently, two official plugins are available:
+Os aplicativos de reconhecimento de imagem tornaram-se cada vez mais populares, aproveitando o poder do aprendizado de máquina para identificar e categorizar objetos dentro de imagens. Neste artigo, vamos explorar o processo de construção de um aplicativo de reconhecimento de imagem no React. Usaremos um modelo de reconhecimento de imagem pré-treinado para tornar o processo de desenvolvimento mais fácil.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Objetivos
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Crie um aplicativo de reconhecimento de imagem usando o TensorflowJS

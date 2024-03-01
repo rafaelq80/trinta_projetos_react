@@ -7,8 +7,6 @@
 
 <br />
 
-<h2><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com" width="35px"/>Frontend - React</h2>
-
 1. <a href="#"></a>
 2. <a href="#"></a>
 3. <a href="#"></a>
