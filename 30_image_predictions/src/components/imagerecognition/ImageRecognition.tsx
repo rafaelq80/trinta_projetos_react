@@ -42,11 +42,11 @@ return (
       />
       <div className="mt-4">
         {loading ? (
-          <p className="mt-4">Loading...</p>
+          <p className="mt-4">Carregando...</p>
         ) : (
           <div>
             <div className="mt-4">
-              <h2 className="text-xl font-bold mb-2">Prediction:</h2>
+              <h2 className="text-xl font-bold mb-2">Predição:</h2>
               <ul className="list-disc pl-4">
                 {predictions.map((prediction, index) => (
                   <li key={index} className="mb-1">

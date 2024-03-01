@@ -36,6 +36,6 @@
 25. <a href="#"></a>
 26. <a href="#"></a>
 27. <a href="#"></a>
-28. <a href="#"></a>
+28. <a href="28_vr_lp">Realiade Virtual - Landing Page</a>
 29. <a href="#"></a>
-30. <a href="#"></a>
+30. <a href="30_image_predictions">Predição de Imagens</a>
