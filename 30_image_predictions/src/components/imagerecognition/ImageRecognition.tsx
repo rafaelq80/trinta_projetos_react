@@ -50,7 +50,7 @@ return (
               <ul className="list-disc pl-4">
                 {predictions.map((prediction, index) => (
                   <li key={index} className="mb-1">
-                    {prediction.class} - Confidence:{" "}
+                   Predição:{prediction.class} - Confiabilidade:{" "}
                     {(prediction.score * 100).toFixed(2)}%
                   </li>
                 ))}
